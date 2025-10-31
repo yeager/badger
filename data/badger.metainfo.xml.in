@@ -31,12 +31,16 @@
     <color type="primary" scheme_preference="dark">#1a1a1a</color>
   </branding>
   <releases>
-    <release version="5.0.1" date="2025-10-01">
+    <release version="5.0.1" date="2025-10-31">
       <description>
         <ul>
-          <li>Update: More efficient notification management</li>
+          <li>Avoid Badger lingering in the background when no active reminder</li>
+          <li>More efficient notification management</li>
         </ul>
       </description>
+      <issues>
+        <issue url="https://github.com/elfenware/badger/issues/114">Badger does not dismiss older notifications</issue>
+      </issues>
     </release>
     <release version="5.0.0" date="2025-06-27">
       <description>
