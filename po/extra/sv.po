@@ -1,0 +1,286 @@
+# Swedish translation of Badget extra.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the badger-extra package.
+# Daniel Nylander <po@danielnylander.se>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26 22:03+0200\n"
+"PO-Revision-Date: 2025-11-23 11:53+0100\n"
+"Last-Translator: Daniel Nylander <github@danielnylander.se>\n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: data/com.github.elfenware.badger.desktop.in:4
+msgid "Badger"
+msgstr "Badger"
+
+#: data/com.github.elfenware.badger.desktop.in:5
+msgid "Ergonomic Reminder"
+msgstr "Ergonomisk påminnelse"
+
+#: data/com.github.elfenware.badger.desktop.in:6
+msgid "Remind yourself to relax your eyes and limbs"
+msgstr "Påminn dig själv om att slappna av i ögonen, armar och ben"
+
+#: data/com.github.elfenware.badger.desktop.in:11
+msgid "Ergonomics;Health;Eyes;Muscles;"
+msgstr "Ergonomi;Hälsa;Ögon;Muskler;"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:8
+msgid "Remind yourself to not sit and stare at the screen for too long"
+msgstr "Påminn dig själv om att inte sitta och stirra på skärmen för länge"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:10
+msgid ""
+"When you are using your computer for extended periods of time, you need to "
+"relax your body every once in a while."
+msgstr ""
+"När du använder din dator under längre perioder måste du vila kroppen då och "
+"då."
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:12
+msgid ""
+"Badger helps you do exactly that. It reminds you—or should I say, badgers you"
+"—to destress yourself and rest your eyes and muscles."
+msgstr ""
+"Badger hjälper dig att göra just det. Den påminner dig – eller snarare, "
+"tjatar på dig – att stressa av och vila ögonen och musklerna."
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:14
+msgid "Currently, it has these eight reminders:"
+msgstr "För närvarande har den dessa åtta påminnelser:"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:17
+msgid "Blink eyes"
+msgstr "Blinka med ögonen"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:18
+msgid "Stretch fingers"
+msgstr "Sträck fingrarna"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:19
+msgid "Stretch arms"
+msgstr "Sträck ut armarna"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:20
+msgid "Stretch legs"
+msgstr "Sträck på benen"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:21
+msgid "Turn neck"
+msgstr "Vrid nacken"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:22
+msgid "Maintain posture"
+msgstr "Upprätthåll hållningen"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:23
+msgid "Drink water"
+msgstr "Drick vatten"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:24
+msgid "Breathe consciously"
+msgstr "Andas medvetet"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:27
+msgid "Stay healthy."
+msgstr "Håll dig frisk."
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:37
+msgid "Update: Modern tech under the hood! (GTK4)"
+msgstr "Uppdatering: Modern teknik under huven! (GTK4)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:38
+msgid "Bugfix: Give Badger permission to send reminders"
+msgstr "Buggfix: Ge Badger behörighet att skicka påminnelser"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:39
+msgid "Bugfix: Repaired Badger's autostart feature"
+msgstr "Bugfix: Reparerade Badgers autostartfunktion"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:40
+msgid "Enhancement: Pretty window animation"
+msgstr "Förbättring: Snygg fönsteranimation"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:41
+msgid "Enhancement: Updated translations"
+msgstr "Förbättring: Uppdaterade översättningar"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:48
+msgid "Update: Use elementary Platform 7"
+msgstr "Uppdatering: Använd Elementary Platform 7"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:55
+msgid "Add: Two new reminders (@disegnovitruviano)"
+msgstr "Lägg till: Två nya påminnelser (@disegnovitruviano)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:56
+msgid "Update: Make window compact"
+msgstr "Uppdatering: Gör fönstret kompakt"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:63
+msgid "Update: Italian translations (@albanobattistella)"
+msgstr "Uppdatering: Italienska översättningar (@albanobattistella)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:70
+msgid "Add: Czech translations (@pervoj)"
+msgstr "Lägg till: Tjeckiska översättningar (@pervoj)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:71
+msgid "Add: Italian translations (@albanobattistella)"
+msgstr "Lägg till: Italienska översättningar (@albanobattistella)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:77
+#: data/com.github.elfenware.badger.metainfo.xml.in:85
+msgid "Odin update 🎉️"
+msgstr "Odin-uppdatering 🎉️"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:79
+#: data/com.github.elfenware.badger.metainfo.xml.in:87
+msgid "Add: Dark style support"
+msgstr "Lägg till: Stöd för mörk stil"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:94
+msgid "Add: Portuguese (Portugal) translations (@rottenpants466)"
+msgstr "Lägg till: Portugisiska (Portugal) översättningar (@rottenpants466)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:101
+msgid "Add: Spanish translations (@fitojb)"
+msgstr "Lägg till: Spanska översättningar (@fitojb)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:102
+msgid "Add: Ukrainian translations (@IhorHordiichuk)"
+msgstr "Lägg till: Ukrainska översättningar (@IhorHordiichuk)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:109
+#: data/com.github.elfenware.badger.metainfo.xml.in:132
+msgid "Update: Screenshot"
+msgstr "Uppdatering: Skärmdump"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:116
+msgid "Add: New reminder for correcting your posture"
+msgstr "Lägg till: Ny påminnelse om att korrigera din hållning"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:123
+msgid "Add: Checkboxes to toggle each timer (@andreasomaini)"
+msgstr ""
+"Lägg till: Kryssrutor för att växla mellan varje timer (@andreasomaini)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:124
+msgid "Fix: Work correctly with the Notification Center (@nathanaelhoun)"
+msgstr "Fix: Fungerar korrekt med meddelandecentret (@nathanaelhoun)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:125
+msgid "Update: Improved icon"
+msgstr "Uppdatering: Förbättrad ikon"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:139
+msgid "Add: 🎉️ Global switch to turn off all reminders 🎉️"
+msgstr "Lägg till: 🎉️ Global knapp för att stänga av alla påminnelser 🎉️"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:146
+msgid "Add: Turkish translations (@libreajans)"
+msgstr "Lägg till: Turkiska översättningar (@libreajans)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:153
+msgid "Add: Dutch translations (@Vistaus)"
+msgstr "Lägg till: Nederländska översättningar (@Vistaus)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:160
+msgid "Fix: \"Never\" option not disabling the timer"
+msgstr "Fix: Alternativet \"Aldrig\" inaktiverar inte timern"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:167
+msgid "Add: 🎉️ Most awaited feature, custom timers! 🎉️"
+msgstr ""
+"Lägg till: 🎉️ Den mest efterlängtade funktionen, anpassningsbara timers! 🎉️"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:168
+#: data/com.github.elfenware.badger.metainfo.xml.in:178
+msgid "Update: French translations (@NathanBnm)"
+msgstr "Uppdatering: Franska översättningar (@NathanBnm)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:169
+msgid "Update: Lithuanian translations (@welaq)"
+msgstr "Uppdatering: Litauiska översättningar (@welaq)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:170
+msgid "Update: Danish translations (@siigdev)"
+msgstr "Uppdatering: Danska översättningar (@siigdev)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:177
+msgid "Add: Danish translations (@siigdev)"
+msgstr "Lägg till: Danska översättningar (@siigdev)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:184
+msgid "Fix: Empty window on launch"
+msgstr "Fix: Tomt fönster vid start"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:189
+msgid "Add: Lithuanian translations (@welaq)"
+msgstr "Lägg till: Litauiska översättningar (@welaq)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:190
+msgid "Fix: Illegible heading in dark mode"
+msgstr "Fix: Oläslig rubrik i mörkt läge"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:195
+msgid "Add: French translations (@NathanBnm)"
+msgstr "Lägg till: Franska översättningar (@NathanBnm)"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:200
+msgid "Fix: Multiple notifications when window is opened &gt;1 times"
+msgstr "Fix: Flera aviseringar när fönstret öppnas mer än en gång"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:205
+msgid "Fix: Remove manual line breaks from metainfo"
+msgstr "Fix: Ta bort manuella radbrytningar från metainfo"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:210
+msgid "Fix: Use smaller window size by default"
+msgstr "Fix: Använd mindre fönsterstorlek som standard"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:215
+msgid "Initial Release 🎉️"
+msgstr "Första utgåvan 🎉️"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:236
+msgid "Darshak Parikh"
+msgstr "Darshak Parikh"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:251
+msgid "Reminders"
+msgstr "Påminnelser"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:252
+msgid "Reminder"
+msgstr "Påminnelse"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:253
+msgid "Selfcare"
+msgstr "Ta hand om dig"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:254
+msgid "Health"
+msgstr "Hälsa"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:255
+msgid "Cute"
+msgstr "Söt"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:256
+msgid "Simple"
+msgstr "Enkel"
+
+#: data/com.github.elfenware.badger.metainfo.xml.in:260
+msgid "The Badger automatically adapts to your set periodical reminders"
+msgstr ""
+"Badger anpassar sig automatiskt till dina inställda periodiska påminnelser"
